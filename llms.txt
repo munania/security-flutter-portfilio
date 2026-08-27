@@ -1,0 +1,28 @@
+# Dennis Munania
+
+> Cybersecurity analyst and Flutter / full stack developer based in Thika, Kenya. Available for security assessments, secure app development, and systems administration contract work.
+
+Dennis works across network security, vulnerability assessment, incident response, and full stack development (Flutter, React). He holds a Cisco Ethical Hacker certification, a Cyber Shujaa Cloud and Network Security certification, and a Qualys Vulnerability Management certification, and has hands on experience with Wazuh SIEM and ISO 27001 aligned documentation.
+
+## Pages
+
+- [Home](https://dennismunania.com/): overview, services offered, and current availability
+- [Profile](https://dennismunania.com/about.html): background, working philosophy, technical skills, and certifications
+- [Operations](https://dennismunania.com/work.html): work history and case notes
+- [Deployments](https://dennismunania.com/projects.html): independent projects, including Port Sentinel (a threaded Python port and CVE scanner) and Jipange (a Flutter task manager)
+- [Contact](https://dennismunania.com/contact.html): direct contact details and a message form
+
+## Services
+
+- Security Assessments: vulnerability scanning, OWASP Top 10 web app testing, SIEM setup and threat monitoring, ISO 27001 aligned documentation
+- Secure App Development: Flutter mobile apps with offline first architecture, React web front ends, Firebase auth and API integration
+- Systems & Network Admin: LAN/WAN setup and hardening, intrusion detection and log monitoring, Docker/Kubernetes deployment support
+- Security & Tech Audits: website and systems reviews covering security, performance, and compliance, delivered as a prioritized action plan
+
+## Contact
+
+- Email: munaniadeno@gmail.com
+- Phone: +254 791 689 129
+- LinkedIn: https://www.linkedin.com/in/dennis-munania/
+- GitHub: https://github.com/munania/
+- Location: Thika, Kenya
